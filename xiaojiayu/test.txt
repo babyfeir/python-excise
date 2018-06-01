@@ -1,0 +1,3 @@
+select * from members;
+select * from videos;
+select * from status;
